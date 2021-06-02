@@ -1,0 +1,16 @@
+db instance - multi-docker-postgres01
+db port - 5432
+
+db_name - fibvalues
+username - postgres
+password - postgrespassword01
+
+
+aws - iam
+user - multi-docker-deployer
+
+key_id
+AKIA3UVHM3OHJIPHRYOJ
+
+Secret_key
+rXywjFgxL5dsF7tzH5IIRI0/ASDL0oJzOBP6r/3d
