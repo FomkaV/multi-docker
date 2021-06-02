@@ -26,7 +26,7 @@
             "name": "nginx",
             "image": "andyrozh/multi-nginx",
             "hostname": "nginx",
-            "essential": true,,
+            "essential": true,
             "memmory": 128,
             "portMapings": [
                 {
